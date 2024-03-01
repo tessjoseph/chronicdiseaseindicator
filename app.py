@@ -18,7 +18,7 @@ app.layout = dmc.MantineProvider(
             comp.header(
                 app,
                 "#FFFFFF",
-                "Dash with Databricks",
+                "Chronic Disease Indicator Dashboard",
                 header_background_color="#111014",
             ),
             comp.create_text_columns(app_description, "description"),
